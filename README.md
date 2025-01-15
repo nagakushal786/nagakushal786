@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Naga Kushal Vankadara</h1>
-<h3 align="center">A passionate full stack developer, competitive programmer and machine learning explorer.</h3>
+<h3 align="center">A passionate full stack developer, competitive programmer and data analytics explorer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagakushal786&label=Profile%20views&color=0e75b6&style=flat" alt="nagakushal786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagakushal786" alt="nagakushal786" /></a> </p>
 
-- 🔭 I’m currently working on **Spring boot Restaurant website**
+- 🔭 I’m currently working on **Hospital management system**
 
-- 🌱 I’m currently learning **DSA, various frameworks and techs, ML**
+- 🌱 I’m currently learning **DSA, various frameworks and techs, Data analytics**
 
 - 🤝 I’m looking for help with **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://kushal-portfolio-silk.vercel.app/](https://kushal-portfolio-silk.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://kushal-portfolio-silk.vercel.app/)
 
-- 💬 Ask me about **Full stack and backend**
+- 💬 Ask me about **Full stack web development**
 
 - 📫 How to reach me **nagakushal786@gmail.com**
 
-- 📄 Know about my experiences [https://apricot-donnie-25.tiiny.site/](https://apricot-donnie-25.tiiny.site/)
+- 📄 Know about my experiences in my [Resume](https://doksly.com/view/DDYLIGFXXYM)
 
 - ⚡ Fun fact **Good team member and binge watcher**
 
