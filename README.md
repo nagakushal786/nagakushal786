@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Naga Kushal Vankadara<br>A full stack web developer and exploring the world of AI<br>🔭 I’m currently working on News-Nest and AI<br>👯 I’m looking to collaborate on AI tech projects<br>🤝 I’m looking for help with creating projects using AI techs<br>🌱 I’m currently learning ML, DL, NLP, LLMs<br>💬 Ask me about Full stack development<br>👨‍💻 Know about me at my [Portfolio](https://kushal-portfolio-silk.vercel.app/)<br>📄 Know about my experiences in my [Resume](https://doksly.com/view/gmQ7nyKSHDx)<br>⚡ Fun fact
+Hi 👋, I'm Naga Kushal Vankadara<br>A full stack web developer and exploring the world of AI<br>🔭 I’m currently working on News-Nest and AI<br>👯 I’m looking to collaborate on AI tech projects<br>🤝 I’m looking for help with creating projects using AI techs<br>🌱 I’m currently learning ML, DL, NLP, LLMs<br>💬 Ask me about Full stack development<br>👨‍💻 Know about me at my [Portfolio](https://kushal-portfolio-silk.vercel.app/)<br>📄 Know about my experiences in my [Resume](https://doksly.com/view/8hDg9GRFIdc)<br>⚡ Fun fact
 I can debug better at 2 AM than at 2 PM
 
 
